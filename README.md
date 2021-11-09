@@ -18,5 +18,5 @@ I'm Serikbol, an aspiring backend developer.
 
 - ✨ I like building backend, parsing and processing data with Python🐍 
 - 🌱 I’m currently learning Django, DRF, FastAPI and data engineering.
-- 📫 How to reach me: [telegram](t.me/afk24hours) [email](mailto:serikbol.ktl@gmail.com)
+- 📫 How to reach me: [telegram](t.me/afk24hours) / [email](mailto:serikbol.ktl@gmail.com)
 - ⚡ Fun fact: person who first introduced me to programming works at Google.
