@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I'm Serikbol, an aspiring backend developer.
 
-- ✨ I like building backend, parsing and processing data with Python🐍 
+- ✨ I like backend engineering, parsing and processing data with Python🐍 
 - 🌱 I’m currently learning and practicing Django, DRF, FastAPI and data engineering.
 - 📫 How to reach me: [telegram](t.me/sxrxkbxl) / [email](mailto:serikbol.ktl@gmail.com)
-- ⚡ Fun fact: person who first introduced me to programming works at Google.
+- ⚡ Fun fact: person who first introduced me to programming in high school works at Google now.
