@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Serikbol, an aspiring backend developer.
+I'm Serikbol,
 
-- ✨ I like backend engineering, parsing and processing data with Python🐍 
-- 🌱 I’m currently learning and practicing Django, DRF, FastAPI and data engineering.
-- 📫 How to reach me: [telegram](t.me/sxrxkbxl) / [email](mailto:serikbol.ktl@gmail.com)
-- ⚡ Fun fact: person who first introduced me to programming in high school works at Google now.
+- I like backend engineering, parsing and processing data with Python🐍 
+- How to reach me: [telegram](t.me/sxrxkbxl) / [email](mailto:serikbol.ktl@gmail.com)
